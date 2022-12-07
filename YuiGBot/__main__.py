@@ -83,7 +83,7 @@ Yoo {}, My Name iS {}
 i am a group management bot I can help you to manage your group
 You can find my list of available commands with /help
 
-Made By- [GBot_NETᗯOᖇK](https://t.me/GBot_Network)
+Made By- [ꋊꏂ꓄-ꇙꁝꏂ꒒꒒ ⚡️](https://t.me/Net_SHELL)
 
 ╔═.♥.══════════════════╗
 • `{}` *User, ON* `{}` *Groups*
@@ -107,7 +107,7 @@ YuiGBot_IMG = "https://telegra.ph/file/8be5e238bdd8aa216e60d.jpg"
 GSTART_IMG = "https://telegra.ph/file/4aa8beb813c0ab3295e0e.mp4"
 
 DONATE_STRING = """
-You can support the project via [UPi](https://telegra.ph/L%CE%9EG%CE%9EID-04-09-2) or by contacting @Yui_Official
+You can support the project via [UPi](https://telegra.ph/L%CE%9EG%CE%9EID-04-09-2) or by contacting @Yui_Support
 Supporting isnt always financial!
  """
 
@@ -263,7 +263,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="💠 Server  ! ˢᵗᵃᵗᵘˢ !",
-                                url="https://server.plyton.in/",
+                                url="https://status.plyton.in/",
                             )
                         ],
                         [
