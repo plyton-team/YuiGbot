@@ -20,7 +20,7 @@ A Modular Telegram Python bot running on python3.9x with a sqlalchemy database
 
 Can be found on telegram as [Yui_GBot](https://t.me/Yui_GBot).
 
-The Support group can be reached out to at [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](https://t.me/Yui_Official), where you can ask for help about [Yui](https://t.me/Yui_GBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](https://t.me/@Yui_Support), where you can ask for help about [Yui](https://t.me/Yui_GBot), discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
 # Note:
@@ -29,7 +29,7 @@ The Support group can be reached out to at [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](ht
 
 injoy Stable Version of Linux Ubontu 14,16,18,20,21 & Centos7 & CO8 & CO8 Stream 😎
 
-Any other questions to Join  [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](https://t.me/Yui_Official)
+Any other questions to Join  [ＹＵｉ ◈ Sᴜᴘᴘᴏʀᴛ](https://t.me/@Yui_Support)
 
 
 
