@@ -269,7 +269,7 @@ def start(update: Update, context: CallbackContext):
                         [
                             InlineKeyboardButton(
                                 text="improve Me 🧲",
-                                url="https://github.com/NetSHELL-Team/YUi_GBot",
+                                url="https://github.com/plyton-team/YuiGbot",
                             )
                         ],
                     ]
